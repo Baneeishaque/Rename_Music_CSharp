@@ -36,6 +36,18 @@
             <HintPath>..\packages\CDorst.Common.Functions.ListFilesUnderDirectory.1.0.0\lib\netstandard2.0\Common.Functions.ListFilesUnderDirectory.dll</HintPath>
             <Private>True</Private>
         </Reference>
+        <Reference Include="Id3.Net, Version=0.6.0.0, Culture=neutral, PublicKeyToken=null">
+            <HintPath>..\packages\ID3.0.6.0\lib\net40\Id3.Net.dll</HintPath>
+            <Private>True</Private>
+        </Reference>
+        <Reference Include="IEnumerable.ForEach, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+            <HintPath>..\packages\IEnumerable.ForEach.1.0.0\lib\net45\IEnumerable.ForEach.dll</HintPath>
+            <Private>True</Private>
+        </Reference>
+        <Reference Include="JetBrains.Annotations, Version=2018.3.0.0, Culture=neutral, PublicKeyToken=1010a0d8d6380325">
+            <HintPath>..\packages\JetBrains.Annotations.2018.3.0\lib\net20\JetBrains.Annotations.dll</HintPath>
+            <Private>True</Private>
+        </Reference>
         <Reference Include="System"/>
         <Reference Include="System.Core"/>
         <Reference Include="System.Data"/>
